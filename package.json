@@ -1,0 +1,17 @@
+{
+  "name": "@trailervote/fixtures",
+  "version": "1.0.0",
+  "main": "lib/trailer_vote/fixtures/index.js",
+  "module": "lib/trailer_vote/fixtures/main.mjs",
+  "repository": "https://github.com/TrailerVote/trailervote-fixtures.git",
+  "author": "Derk-Jan Karrenbeld <derk-jan+github@karrenbeld.info>",
+  "license": "MIT",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "dependencies": {
+    "esm": "^3.0.84",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {}
+}
