@@ -4,7 +4,7 @@
   "main": "lib/trailer_vote/fixtures/index.js",
   "module": "lib/trailer_vote/fixtures/main.mjs",
   "repository": "https://github.com/TrailerVote/trailervote-fixtures.git",
-  "author": "Derk-Jan Karrenbeld <derk-jan+github@karrenbeld.info>",
+  "author": "Derk-Jan Karrenbeld <dj@trailervote.com>",
   "license": "MIT",
   "scripts": {
     "test": "node test/test.js"
