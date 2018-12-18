@@ -21,6 +21,7 @@ GEM
     ruby-progressbar (1.10.0)
 
 PLATFORMS
+  ruby
   x64-mingw32
 
 DEPENDENCIES
@@ -33,4 +34,4 @@ DEPENDENCIES
   trailer_vote-fixtures!
 
 BUNDLED WITH
-   1.16.5
+   1.16.6
