@@ -1,3 +1,4 @@
+# Ruby
 /.bundle/
 /.yardoc
 /_yardoc/
@@ -6,7 +7,6 @@
 /pkg/
 /spec/reports/
 /tmp/
-
 /bin/
 /test/
 /lib/trailer_vote/fixtures.rb
@@ -18,4 +18,8 @@ Gemfile
 Gemfile.lock
 Rakefile
 trailer_vote-fixtures.gemspec
+
+# JavaScript
+/node_modules/
+
 
