@@ -17,7 +17,7 @@ GEM
       minitest (>= 5.0)
       ruby-progressbar
     oj (3.6.12)
-    rake (12.3.1)
+    rake (12.3.2)
     ruby-progressbar (1.10.0)
 
 PLATFORMS
