@@ -1,0 +1,9 @@
+{
+	"push_compaign_trivial": {
+		"_links": {
+			"action": { "href": "http://cinema1.dev.trailervote.com/venom.php" }
+		},
+		"message": "TrailerVote wants your attention",
+		"schedule_at": "2018-12-08T00:00:00Z"
+	}
+}
