@@ -1,5 +1,5 @@
 {
-	"push_compaign_trivial": {
+	"push_campaign_trivial": {
 		"_links": {
 			"action": { "href": "http://cinema1.dev.trailervote.com/venom.php" }
 		},
