@@ -1,0 +1,9 @@
+{
+"push_campaign_trivial":{
+		"product_asset_id":"34b7ed46-2a3b-47ff-9cdf-51c73ebce66f",
+		"url":"www.horsesTheMovie.com",
+		"translations":{"en-US": "TrailerVote wants your attention"},
+		"place_id":"0d0277cb-756c-4686-84e4-bab158584f01"
+		"schedule_at": "2018-12-08T00:00:00Z"
+	}
+}
