@@ -10,7 +10,7 @@
     "test": "node test/test.js"
   },
   "dependencies": {
-    "esm": "^3.0.84",
+    "esm": "^3.2.25",
     "path": "^0.12.7"
   },
   "devDependencies": {}
