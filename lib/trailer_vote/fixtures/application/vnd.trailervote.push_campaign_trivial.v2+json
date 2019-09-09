@@ -1,0 +1,20 @@
+{
+	"push_campaign_trivial": {
+		"_links": {
+			"action": { "href": "http://cinema1.dev.trailervote.com/venom.php" }
+		},
+		"message": "TrailerVote wants your attention",
+		"schedule_at": "2018-12-08T00:00:00Z",
+		"filter": {
+			"platform": "ios",
+			"region": "nl",
+			"language": "NL",
+			"timezone": "Europe/Amsterdam",
+			"vote_source": null,
+			"purchased": false,
+			"vote_value": null,
+			"vote_from": null,
+			"vote_until": null
+		}
+	}
+}
