@@ -4,7 +4,6 @@
 		"translations": { "en-US": "TrailerVote wants your attention" },
 		"schedule_at":  "2018-12-08T00:00:00Z",
 		"_links": {
-        "self":'https://fake.dev.trailervote.com/trailervote-api/admin/push_trivial_campaigns/9664ef93-5c38-4409-9652-f0c51c61377a',
 		    "product_asset": "https://fake.trailervote.com:/api/products/a3f29b79-7f09-4d99-b5d8-aae91a563eb8/images/ed236e4b-f457-49d5-978f-ed84953eb004"
         }
 	}
