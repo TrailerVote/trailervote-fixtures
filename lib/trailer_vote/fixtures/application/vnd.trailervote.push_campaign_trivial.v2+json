@@ -1,7 +1,6 @@
 {
 	"push_campaign_trivial": {
 		"_links": {
-			"self":'https://fake.dev.trailervote.com/trailervote-api/admin/push_trivial_campaigns/9664ef93-5c38-4409-9652-f0c51c61377a',
 			"action": { "href": "http://cinema1.dev.trailervote.com/venom.php" }
 		},
 		"message": "TrailerVote wants your attention",
