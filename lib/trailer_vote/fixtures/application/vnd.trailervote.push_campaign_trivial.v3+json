@@ -19,7 +19,7 @@
       "purchased": false,
       "vote_value": null,
       "vote_from": null,
-      "vote_until": null
+      "vote_until": "2020-12-08T00:00:00Z"
     }
   }
 }
