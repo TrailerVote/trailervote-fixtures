@@ -47,10 +47,6 @@ matrix:
 
     - language: node_js
       cache: yarn
-      node_js: iojs
-
-    - language: node_js
-      cache: yarn
       node_js: lts/*
 
   allow_failures:
@@ -60,5 +56,3 @@ matrix:
       rvm: rbx-3
     - language: ruby
       rvm: 2.6
-    - language: node_js
-      node_js: iojs
