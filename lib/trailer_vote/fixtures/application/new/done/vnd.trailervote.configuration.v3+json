@@ -17,7 +17,8 @@
        "href": "www.product_lookup.com"
      },
      "persona": {
-       "href": "www.persona.com"
+       "href": "www.persona.com",
+       "templated: "True"
      },
      "analytics": {
        "href": "www.url.com"
