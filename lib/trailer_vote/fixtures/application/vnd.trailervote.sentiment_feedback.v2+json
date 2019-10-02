@@ -1,0 +1,14 @@
+{
+  "sentiment_feedback": {
+    "title": "myTitle",
+    "description": "My description",
+    "_links": {
+      "self": {
+        "href": "https://www.self.org/"
+      },
+      "feedback": {
+        "href": "https://www.feedback.org/"
+      }
+    }
+  }
+}
