@@ -1,2 +1,9 @@
-{"places":{"_index":[{
-    "href":"www.place.com"}]}}
+{
+  "places": {
+    "_index": [
+      {
+        "href": "www.place.com"
+      }
+    ]
+  }
+}

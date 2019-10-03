@@ -1,5 +1,7 @@
-{"place":{
+{
+  "place": {
     "name": "AMC Theatres",
     "parent_place": "120660be-f9a8-49f7-9a4e-b140ea0a16d5",
     "expires_at": null
-  }}
+  }
+}
