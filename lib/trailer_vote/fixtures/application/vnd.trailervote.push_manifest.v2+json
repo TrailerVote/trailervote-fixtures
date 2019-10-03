@@ -13,8 +13,8 @@
       },
       {
         "_links": {
-          "audio_fragment": {
-            "href": "https://example.org/audio_fragments/12134124"
+          "product": {
+            "href": "https://example.org/product/12134124"
           },
           "campaign": {
             "href": "http://cinema1.dev.trailervote.com/campaign_12134123.php"
