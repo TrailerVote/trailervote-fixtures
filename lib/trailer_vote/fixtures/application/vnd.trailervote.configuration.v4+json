@@ -1,0 +1,42 @@
+{
+  "configuration": {
+    "_links": {
+      "self": {
+        "href": "www.self_url.com"
+      },
+      "place": {
+        "href": "www.Place_url.com"
+      },
+      "push_manifest": {
+        "href": "www.push_manifest.com"
+      },
+      "products": {
+        "href": "www.push_manifest.com"
+      },
+      "product_lookup": {
+        "href": "www.product_lookup.com"
+      },
+      "persona": {
+        "href": "https://fake.trailervote.com:/api/personas/{uuid}/feedback",
+        "templated": true
+      },
+      "analytics": {
+        "href": "https://fake.trailervote.influxcloud.net:8086/analytics"
+      },
+      "telemetrics": {
+        "href": "https://fake.analytics.trailervote.com:8086/metrics"
+      },
+      "views_api": {
+        "href": "https://fake.trailervote.com:/views-api/configuration/placeid/{persona}",
+        "templated": true
+      },
+      "issues": {
+        "href": "www.url.com"
+      }
+    },
+    "customer_config": {
+      "a": 2,
+      "key": "value"
+    }
+  }
+}
