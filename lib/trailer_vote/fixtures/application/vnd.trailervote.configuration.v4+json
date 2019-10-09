@@ -26,7 +26,7 @@
       "telemetrics": {
         "href": "https://fake.analytics.trailervote.com:8086/metrics"
       },
-      "views_api": {
+      "persona_config": {
         "href": "https://fake.trailervote.com:/views-api/configuration/placeid/{persona}",
         "templated": true
       },
