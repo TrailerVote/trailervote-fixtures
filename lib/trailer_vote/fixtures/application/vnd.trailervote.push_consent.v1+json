@@ -1,0 +1,11 @@
+{
+  "push_consent": {
+    "region": "NL",
+    "opt_in": true,
+    "signed_at": "20191016T123723Z",
+    "_links": {
+      "tos": { "href": "https://trailervote.com/push_consent_v1.pdf" },
+      "tokens": { "href": "https://fake.trailervote.com/persona/1241234/tokens" }
+    }
+  }
+}
