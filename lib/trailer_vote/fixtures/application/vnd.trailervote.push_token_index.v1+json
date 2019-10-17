@@ -1,0 +1,16 @@
+{
+  "push_token_index": [
+    {
+      "device_id": "abc123",
+      "_links": {
+        "push_token": "https://stable.trailervote.com/persona/1241234/tokens/123"
+      }
+    },
+    {
+      "device_id": "def456",
+      "_links": {
+        "push_token": "https://stable.trailervote.com/persona/1241236/tokens/789"
+      }
+    }
+  ]
+}
