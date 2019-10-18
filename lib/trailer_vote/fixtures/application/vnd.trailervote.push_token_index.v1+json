@@ -4,13 +4,9 @@
       {
         "device_id": "20bbc9d7-9b72-4641-b168-de5072e12e26",
         "_links": {
-          "push_token": "https://stable.trailervote.com/persona/1241234/tokens/123"
-        }
-      },
-      {
-        "device_id": "b34244da-2b8f-49b9-b6b5-20bf535926a4",
-        "_links": {
-          "push_token": "https://stable.trailervote.com/persona/1241236/tokens/789"
+          "push_token": {
+            "href": "https://stable.trailervote.com/persona/1241234/tokens/123"
+          }
         }
       }
     ]
