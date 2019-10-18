@@ -37,6 +37,7 @@
     "customer_config": {
       "a": 2,
       "key": "value"
-    }
+    },
+    "firebase_project": "firebase-project-id"
   }
 }
