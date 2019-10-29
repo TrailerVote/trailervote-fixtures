@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    trailer_vote-fixtures (1.8.2)
+    trailer_vote-fixtures (1.9.0)
 
 GEM
   remote: https://rubygems.org/
