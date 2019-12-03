@@ -1,5 +1,8 @@
 {
   "release_push_campaign": {
+    "message": "Tickets for an awesome movie are now for sale!",
+    "dnd_start": "23:00",
+    "dnd_end": "08:00",
     "_links": {
       "action": {
         "href": "http://cinema1.dev.trailervote.com/venom.php"
@@ -7,7 +10,6 @@
       "self": {
         "href": "https://fake.dev.trailervote.com/api/release_push_campaigns/ed236e4b-f457-49d5-978f-ed84953eb004"
       }
-    },
-    "message": "Tickets for an awesome movie are now for sale!"
+    }
   }
 }
