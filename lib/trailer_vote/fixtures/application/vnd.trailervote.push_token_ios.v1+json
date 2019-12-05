@@ -2,6 +2,9 @@
   "push_token_ios": {
     "token": "aas89df790724898jf0218jdf202810jdg",
     "app_id": "com.trailervote.demo",
-    "device_id": "a60bcc97-f76a-461e-a338-320a219c2d71"
+    "device_id": "a60bcc97-f76a-461e-a338-320a219c2d71",
+    "_links": {
+      "self": { "href": "https://fake.trailervote.com/api/personas/b09bac5e-5c48-499c-a695-eead9437cb6e/push_tokens/ios/b09bac5e-5c48-499c-a695-eead9437cb6q" }
+    }
   }
 }
