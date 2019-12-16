@@ -1,5 +1,5 @@
 {
-  "push_recipe_android": {
+  "push_recipe_ios": {
     "auth_key": "-----BEGIN PRIVATE KEY-----\nadslkfjasldkjfalsdj;as\n-----END PRIVATE KEY-----",
     "key_id": "SDFASBSA",
     "team_id": "DSFASDFASD",
