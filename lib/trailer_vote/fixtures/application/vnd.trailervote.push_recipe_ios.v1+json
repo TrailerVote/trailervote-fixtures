@@ -1,0 +1,13 @@
+{
+  "push_recipe_ios": {
+    "auth_key": "-----BEGIN PRIVATE KEY-----\nadslkfjasldkjfalsdj;as\n-----END PRIVATE KEY-----",
+    "key_id": "SDFASBSA",
+    "team_id": "DSFASDFASD",
+    "topic": "com.trailervote.TrailerVoteDemo",
+    "tokens": ["dajflasjfk", "asdfwqeqqew"],
+    "mediatype": "application/vnd.trailervote.manifest_update.v1+json",
+    "payload": {
+      "manifest_update": {}
+    }
+  }
+}

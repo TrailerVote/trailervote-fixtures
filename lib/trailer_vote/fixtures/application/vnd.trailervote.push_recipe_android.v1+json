@@ -1,0 +1,10 @@
+{
+  "push_recipe_android": {
+    "auth_token": "sdlkjfslzdjsalkjlkalnba",
+    "tokens": ["dajflasjfk", "asdfwqeqqew"],
+    "mediatype": "application/vnd.trailervote.manifest_update.v1+json",
+    "payload": {
+      "manifest_update": {}
+    }
+  }
+}
