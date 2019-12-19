@@ -1,7 +1,9 @@
 {
   "release_push_campaign": {
     "translations": {
-      "en-US": "Tickets for an awesome movie are now for sale!"
+      "en-US": {
+        "message": "Tickets for an awesome movie are now for sale!"
+      }
     },
     "dnd_start": "23:00:00",
     "dnd_end": "08:00:00",
