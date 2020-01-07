@@ -1,0 +1,19 @@
+{
+  "release_push_campaign": {
+    "translations": {
+      "en-US": {
+        "message": "Tickets for an awesome movie are now for sale!"
+      }
+    },
+    "dnd_start": "23:00:00",
+    "dnd_end": "08:00:00",
+    "_links": {
+      "product": {
+        "href": "https://fake.trailervote.com:/api/products/a3f29b79-7f09-4d99-b5d8-aae91a563eb8"
+      },
+      "action": {
+        "href": "https://fake.trailervote.com:/api/products/a3f29b79-7f09-4d99-b5d8-aae91a563eb8/images/ed236e4b-f457-49d5-978f-ed84953eb004"
+      }
+    }
+  }
+}
