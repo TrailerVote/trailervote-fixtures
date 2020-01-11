@@ -6,9 +6,19 @@
       },
       "action": {
         "href": "http://cinema1.dev.trailervote.com/venom.php"
+      },
+      "product_asset": {
+        "href": "https://fake.trailervote.com:/api/audio-fragments/1220c10465c7163b9c97e478b296b3ba22041670d09f0dc2ac50ab1f277493df859u"
       }
     },
-    "message": "TrailerVote wants your attention",
+    "translations": {
+      "en-US": {
+        "message": "TrailerVote wants your attention"
+      },
+      "nl-NL": {
+        "message": "TrailerVote wil je aandacht"
+      }
+    },
     "schedule_at": "2018-12-08T00:00:00Z",
     "filter": {
       "platform": "ios",
@@ -19,7 +29,7 @@
       "purchased": false,
       "vote_value": null,
       "vote_from": null,
-      "vote_until": "2020-12-08T00:00:00Z"
+      "vote_until": null
     }
   }
 }
