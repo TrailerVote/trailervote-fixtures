@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    trailer_vote-fixtures (1.16.0)
+    trailer_vote-fixtures (1.17.0)
 
 GEM
   remote: https://rubygems.org/
@@ -34,4 +34,4 @@ DEPENDENCIES
   trailer_vote-fixtures!
 
 BUNDLED WITH
-   2.1.0
+   2.1.4
