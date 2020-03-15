@@ -1,0 +1,27 @@
+{
+  "vista_configs": {
+    "_index": [
+      {
+        "api_key": "key123",
+        "base_url": "https://api.client.com"
+      },
+      {
+        "api_key": "key456",
+        "base_url": "https://api.otherclient.com"
+      },
+      {
+        "api_key": "password",
+        "base_url": "http://vistaclient.com/webapi/v2"
+      },
+      {
+        "api_key": "csabyy7t43ivodea7804hbg8o89sgb76894",
+        "base_url": "https://sales.awesomemovies.com/portal/api"
+      },
+      {
+        "api_key": "key789",
+        "base_url": "https://cinemas.com/vistaWebApi/v2"
+      }
+    ],
+    "_links": {}
+  }
+}
