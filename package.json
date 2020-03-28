@@ -1,6 +1,6 @@
 {
   "name": "@trailervote/fixtures",
-  "version": "1.17.0",
+  "version": "1.17.1",
   "main": "lib/trailer_vote/fixtures/index.js",
   "module": "lib/trailer_vote/fixtures/main.mjs",
   "repository": "https://github.com/TrailerVote/trailervote-fixtures.git",
