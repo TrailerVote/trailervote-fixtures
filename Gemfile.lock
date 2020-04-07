@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    trailer_vote-fixtures (1.17.1)
+    trailer_vote-fixtures (1.17.3)
 
 GEM
   remote: https://rubygems.org/
@@ -16,7 +16,7 @@ GEM
       builder
       minitest (>= 5.0)
       ruby-progressbar
-    oj (3.10.5)
+    oj (3.10.6)
     rake (13.0.1)
     ruby-progressbar (1.10.1)
 
