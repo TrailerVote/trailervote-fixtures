@@ -2,6 +2,6 @@
 
 module TrailerVote
   module Fixtures
-    VERSION = '1.17.4'
+    VERSION = '1.17.5'
   end
 end
