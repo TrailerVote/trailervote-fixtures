@@ -4,6 +4,9 @@
     "source_url": "www.source_url.com",
     "expires_at": "2037-02-14 17:57:04",
     "content_language": "en-US",
-    "content_region": "US"
+    "content_region": "US",
+    "data": {
+      "type": "poster"
+    }
   }
 }
