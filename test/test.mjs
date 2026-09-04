@@ -1,22 +1,23 @@
-import fixtures from '../lib/trailer_vote/fixtures/main.mjs'
+import assert from 'assert'
 import fs from 'fs'
-const errorsJson = JSON.parse(fs.readFileSync(fixtures("application/vnd.trailervote.errors.v1+json")).toString())
-const expectedJson = {
-  "errors": [
-    {
-      "message": "Product lookup did not return a product",
-      "code": "Gxf413eb482deef440f00469efc6caaf46"
-    }
-  ]
-}
+import { createRequire } from 'module'
 
-if ('errors' in errorsJson) {
-  if (errorsJson.errors.length > 0) {
-    if (errorsJson.errors[0].message === expectedJson.errors[0].message) {
-      process.exit(0)
-    }
-  }
-}
+import fixturePath from '@trailervote/fixtures'
 
-console.error(`Expected ${expectedJson}, actual ${errorsJson}`)
-process.exit(1)
+const require = createRequire(import.meta.url)
+
+assert.strictEqual(typeof fixturePath, 'function')
+
+const errorsPath = fixturePath('application/vnd.trailervote.errors.v1+json')
+const errorsJson = JSON.parse(fs.readFileSync(errorsPath).toString())
+
+assert.strictEqual(
+  errorsJson.errors[0].message,
+  'Product lookup did not return a product'
+)
+
+// the module and commonjs entry points must resolve to the same file
+assert.strictEqual(
+  errorsPath,
+  require('@trailervote/fixtures')('application/vnd.trailervote.errors.v1+json')
+)
