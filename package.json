@@ -3,14 +3,21 @@
   "version": "1.17.1",
   "main": "lib/trailer_vote/fixtures/index.js",
   "module": "lib/trailer_vote/fixtures/main.mjs",
+  "exports": {
+    ".": {
+      "import": "./lib/trailer_vote/fixtures/main.mjs",
+      "require": "./lib/trailer_vote/fixtures/index.js",
+      "default": "./lib/trailer_vote/fixtures/index.js"
+    },
+    "./*": "./*"
+  },
   "repository": "https://github.com/TrailerVote/trailervote-fixtures.git",
   "author": "Derk-Jan Karrenbeld <dj@trailervote.com>",
   "license": "MIT",
   "scripts": {
-    "test": "node test/test.js"
+    "test": "node test/test.js && node test/test.mjs"
   },
   "dependencies": {
-    "esm": "^3.2.25",
     "path": "^0.12.7"
   },
   "devDependencies": {}

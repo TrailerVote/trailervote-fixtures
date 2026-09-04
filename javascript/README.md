@@ -7,14 +7,23 @@
 Using your favourite package manager:
 
 ```bash
-yarn add @trailer_vote/fixtures
+yarn add @trailervote/fixtures
 ```
 
 ## Usage
 
 ```javascript
-import fixturePath from '@trailer_vote/fixtures'
+import fixturePath from '@trailervote/fixtures'
 import fs from 'fs'
+const errorsJson = JSON.parse(fs.readFileSync(fixturePath('application/vnd.trailervote.errors.v1+json')))
+// => { "errors" => [...] }
+```
+
+Or, from CommonJS:
+
+```javascript
+const fixturePath = require('@trailervote/fixtures')
+const fs = require('fs')
 const errorsJson = JSON.parse(fs.readFileSync(fixturePath('application/vnd.trailervote.errors.v1+json')))
 // => { "errors" => [...] }
 ```
